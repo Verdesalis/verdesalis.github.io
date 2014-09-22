@@ -1,21 +1,25 @@
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
-  subtitle:     "Modern Jekyll based blog for companies"
+  title:        "Verdesalis"
+  subtitle:     "An innovative approach to environmental remediation."
   cover_image:  blog-cover.jpg
   logo:         logo.png
   
   # Company information
-  company:      Incorporated
-  url:          http://sendtoinc.com/
-  facebook:     sendtoinc
-  twitter:      sendtoinc
-  gplus:        '101183822199340201470'
-  about_link:   https://sendtoinc.com/about/
+  company:      Verdesalis
+  url:          http://verdesalis.dev:4000
+  facebook:     verdesalis
+  ;twitter:      verdesalis
+  ;gplus:        '101183822199340201470'
+  about_link:   http://verdesalis.dev:4000/chi-siamo/
   
-  # Product Information
-  product_link: http://incorporated.sendtoinc.com/
-  tagline:      "Get a modern blog for your company"
+  # Chi siamo
+  chisiamo_url: http://verdesalis.dev:4000/chi-siamo/
+  chisiamo_link: Chi siamo
+
+  # Contatti
+  contatti_url: http://verdesalis.dev:4000/contatti/
+  contatti_link: Contatti
   
   # Comments
   disqus:
@@ -28,8 +32,7 @@ inc:
     facebook:   false
     gplus:      false
     hn:         false
-    
-  
+
  # Analytics     
   analytics:
     google: false # Add tracking code in _includes/_google-analytics.html
@@ -41,7 +44,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://incorporated.sendtoinc.com
+url:         http://www.verdesalis.it
 source:      .
 destination: ./_site
 plugins:     ./_plugins
