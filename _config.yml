@@ -11,14 +11,13 @@ inc:
   facebook:     verdesalis
   ;twitter:      verdesalis
   ;gplus:        '101183822199340201470'
-  about_link:   http://verdesalis.dev:4000/chi-siamo/
   
   # Chi siamo
-  chisiamo_url: http://verdesalis.dev:4000/chi-siamo/
+  chisiamo_url: /chi-siamo/
   chisiamo_link: Chi siamo
 
   # Contatti
-  contatti_url: http://verdesalis.dev:4000/contatti/
+  contatti_url: /contatti/
   contatti_link: Contatti
   
   # Comments
