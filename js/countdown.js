@@ -13,8 +13,8 @@
 		}
 		//main countdown function
 		function countdown_proc() {
-			eventDate = Date.parse(settings['date']) / 1000;
-			currentDate = Math.floor($.now() / 1000);
+			eventDate = Date.parse('1 november 2014 00:00:00') / 1000;
+      currentDate = Math.floor($.now() / 1000);
 			if(eventDate <= currentDate) {
 				callback.call(this);
 				clearInterval(interval);
@@ -53,5 +53,5 @@
 		countdown_proc();
 		//loop the function
 		interval = setInterval(countdown_proc, 1000);
-	}
+	};
 }) (jQuery);
