@@ -13,7 +13,7 @@
 		}
 		//main countdown function
 		function countdown_proc() {
-			eventDate = Date.parse('1 november 2014 00:00:00') / 1000;
+			eventDate = Date.parse('10 january 2015 00:00:00') / 1000;
       currentDate = Math.floor($.now() / 1000);
 			if(eventDate <= currentDate) {
 				callback.call(this);
