@@ -1,32 +1,20 @@
 ---
 layout: post
 title: Contribuire al cambiamento
-;subtitle: "Sottotitolo del primo post"
-;cover_image: blog-cover.jpg
+subtitle: "Sottotitolo del primo post"
 
-excerpt: "Estratto iniziale del post che verrà comunque visualizzato sulla
-pagina principale per poi accedere alla lettura completa tramite il link."
+excerpt: "Non si può risolvere un problema usando la stessa mentalità che lo ha creato."
 
 author:
   name: Luigi Vaglio
   bio: Cofondatore
   image: blogger/luigi.jpg
-
-sharing:
-    ;twitter:    false
-    facebook:   true
-    ;gplus:      false
-    ;hn:         false
 ---
-
-![testo per cecati][figa]
-
-[figa]: /images/misc/prova.jpg "Figa"
 
 Caro visitatore,
 per prima cosa: benvenuto.
 
-Questa è la sezione di blogging e news di Verdesalis,
+Questa è la sezione di blogging e news di [Verdesalis](http://verdesalis.it/ "Verdesalis"),
 il progetto di vita a cui stiamo lavorando. Progetto di vita significa voler
 dedicare se stessi, il proprio bagaglio di conoscenze e le capacità personali
 per uno scopo che coinvolgerà noi e la nostra comunità, il nostro amato
@@ -63,16 +51,18 @@ le nostre qualità e competenze per cercare di sanare il nostro ambiente,
 ripulirlo dal peccato di superficialità e ignoranza dei nostri padri e di
 coloro che ancora prima di loro non avevano idea del male che potevano fare a
 se stessi ed agli altri, permettendo che certi crimini venissero commessi.
+
 Ad oggi, molta parte del nostro territorio presenta deterioramenti più o meno
 gravi, direttamente collegati alle azioni condotte su di esso.
 Nonostante distanti molti kilometri dalle aree a maggiore impatto ambientale,
 intere aree del nostro territorio sperimentano gli effetti di un inquinamento
 che coinvolge suolo, acque ed aria, e sta portando lentamente alla rottura dei
 sottili equilibri che mantengono florida la natura, e che ci permettono di
-godere di quei frutti che ci rendono famosi nel mondo. Crediamo nella bontà dei
-frutti della nostra terra, ricordiamo i sapori e vogliamo che vengano ricordati
-da tutti, che diventino il bagaglio che passeremo alle generazioni che
-seguiranno la nostra. Verdesalis, verde perché crediamo nel potere
+godere di quei frutti che ci rendono famosi nel mondo.
+
+Crediamo nella bontà dei frutti della nostra terra, ricordiamo i sapori e
+vogliamo che vengano ricordati da tutti, che diventino il bagaglio che passeremo
+alle generazioni che seguiranno la nostra. Verdesalis, verde perché crediamo nel potere
 autorigenerante della natura, salis perché gli antichi latini dicevano
 “cum grano salis” per indicare l'azione di un antidoto che aveva effetto solo se
 preso con un grano di sale. Una piccola dose di buonsenso. Il “buonsenso”,
@@ -86,22 +76,25 @@ ripristinarlo usando tecniche innovative date dalla tradizione in comunione con
 le scoperte più recenti delle scienze biotecnologiche, come la fitodepurazione
 ed il fitorisanamento, la permacoltura e le tecniche agricole tradizionali
 riscoperte in chiave moderna, ribattezzate “aridocoltura” proprio per la
-particolarità dell'agro salentino e pugliese in generale. Sociale, perché siamo
-pienamente coscienti del grande periodo di crisi che stiamo affrontando, e siamo
-sicuri che, citando qualcuno ben più grande di noi, “Non si può risolvere un
-problema usando la stessa mentalità che lo ha creato” (cit. A. Einstein). Il
-prodotto sociale della crisi sistemica che vediamo tutti i giorni intorno a noi
+particolarità dell'agro salentino e pugliese in generale.
+
+Sociale, perché siamo pienamente coscienti del grande periodo di crisi che stiamo
+affrontando, e siamo sicuri che, citando qualcuno ben più grande di noi,
+“Non si può risolvere un problema usando la stessa mentalità che lo ha creato” (cit. A. Einstein).
+Il prodotto sociale della crisi sistemica che vediamo tutti i giorni intorno a noi
 e attraverso i media, risulta in masse consistenti di persone che, per varie
 ragioni, non trovano una collocazione o semplicemente una possibilità di
 applicarsi, perché il lavoro tradizionale scompare ogni giorno di più, divorato
 dal progresso tecnologico (leggi “disoccupazione tecnologica”), mentre le
 istituzioni si ostinano a voler rilanciare consumismo e superficialità,
 infierendo su un serbatoio di ricchezza nazionale e locale che ormai sta
-grattando il fondo del famoso barile. Queste persone sono le stesse che poi,
-come conseguenza di una disperazione e insoddisfazioni profonde, cercheranno di
-sopravvivere e lanciare un ultimo grido disperato con azioni estreme, ed i
-suicidi a cui abbiamo assistito negli ultimi anni ne sono una prova lampante e
-drammatica. Altra prova è la ricomparsa di autobus pieni di giovani, spesso
+grattando il fondo del famoso barile.
+
+Queste persone sono le stesse che poi, come conseguenza di una disperazione e
+insoddisfazioni profonde, cercheranno di sopravvivere e lanciare un ultimo grido
+disperato con azioni estreme, ed i suicidi a cui abbiamo assistito negli ultimi
+anni ne sono una prova lampante e drammatica.
+Altra prova è la ricomparsa di autobus pieni di giovani, spesso
 molto competenti e capaci, che emigrano verso destinazioni ancora floride, una
 rievocazione di scenari post bellici che lasciano attoniti i nostri nonni, che
 speravano di lasciarci una nazione ricca e civile nella quale svilupparci,
