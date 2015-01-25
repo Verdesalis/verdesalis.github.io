@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Contribuire al cambiamento
-subtitle: "Sottotitolo del primo post"
+subtitle: "Non si può risolvere un problema usando la stessa mentalità che lo ha creato - A. Einstain"
 
-excerpt: "Non si può risolvere un problema usando la stessa mentalità che lo ha creato."
+excerpt: "Non si può risolvere un problema usando la stessa mentalità che lo ha creato - A. Einstain."
 
 author:
   name: Luigi Vaglio

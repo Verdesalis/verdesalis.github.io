@@ -3,6 +3,11 @@ title: Chi siamo
 layout: page
 permalink: /chi-siamo/
 cover_image: verdesalis-chi-siamo.jpg
+ilijas: blogger/ilijas.jpg
+igor: blogger/igor.png
+ivo: blogger/ivo.jpg
+gianni: blogger/gianni.jpg
+luigi: blogger/luigi.jpg
 ---
 
 
@@ -34,7 +39,8 @@ Lo staff Verdesalis
 Il nostro staff è formato da cinque figure eterogenee per formazione ed
 esperienze professionali.
 
-####Ilijas Costantini
+
+####<img style="border-radius:54px;width:64px;height:64px;" src="/images/{{ page.ilijas }}"> Ilijas Costantini
 Nato a Pordenone e successivamente trasferitosi in provincia di Lecce nel 2004.
 Dopo aver frequentato un anno di Scienze e Tecnologie dell’Ambiente presso
 l’Università di Lecce, si laurea a Milano in Biotecnologie. Le esperienze di
@@ -49,7 +55,8 @@ si possa far tornare una parte del nostro settore in auge ma soprattutto
 coinvolgere, educare, informare la comunità e cooperare con essa per vivere
 insieme in un ambiente più salubre e sostenibile. 
 
-####Luigi Vaglio
+
+####<img style="border-radius:54px;width:64px;height:64px;" src="/images/{{ page.luigi }}"> Luigi Vaglio
 Nato a Galatina e cresciuto a Pomezia (RM). Inizia il suo percorso accademico in
 Biotecnologie presso l’Università degli Studi di Roma Tor Vergata e lo conclude
 presso l’Università degli Studi del Salento laureandosi nel dicembre 2013.
@@ -62,7 +69,8 @@ imprenditoriale indipendente e pienamente in linea con i canoni e i principi
 personali. Auspica di lavorare non solo in ambito nazionale, e di continuare a
 sviluppare le qualità capaci di essere apprezzate anche all’estero.
 
-####Ivano Manca
+
+####<img style="border-radius:54px;width:64px;height:64px;" src="/images/{{ page.ivo }}"> Ivano Manca
 Salentino, ingegnere e musicista. Vissuto in Emilia-Romagna per studio ed in UK
 per lavoro. Tornato stabilmente in Puglia nel 2014, attualmente lavora nel
 settore IT per Blueprimates (una start-up salentina operante sia nel mercato
@@ -74,7 +82,7 @@ possibilità di contribuire attivamente ad uno sviluppo sostenibile ed innovativ
 in agricoltura e nella tutela del territorio.
 
 
-####Gianni Casaluce
+####<img style="border-radius:54px;width:64px;height:64px;" src="/images/{{ page.gianni }}"> Gianni Casaluce
 Nato in Germania, dove è vissuto fino a 7 anni acquisendo una spiccata
 sensibilità ambientale e civile. In seguito si trasferì in Puglia per poi
 iniziare e concludere gli studi in Economia del Turismo presso l’Università di
@@ -92,7 +100,8 @@ territorio e di comunità. Comunità in cui i cittadini devono essere partecipi
 all’economia del territorio rispettando l’ambiente i suoi antichi paesaggi e
 territori rurali abbandonati.
 
-####Igor Costantini
+
+####<img style="border-radius:54px;width:64px;height:64px;" src="/images/{{ page.igor }}"> Igor Costantini
 Nato a Pordenone e successivamente trasferito in provincia di Lecce nel 2004.
 Diplomato  Ragioniere e Perito Commerciale e Diploma di Qualifica di Operatore
 Termico – Progetto 2002. Mentalità eclettica, con esperienze lavorative che lo
