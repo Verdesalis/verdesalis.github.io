@@ -7,7 +7,7 @@ excerpt: "Non si può risolvere un problema usando la stessa mentalità che lo h
 
 author:
   name: Luigi Vaglio
-  bio: Cofondatore
+  bio: Cofondatore Verdesalis
   image: blogger/luigi.jpg
 ---
 
@@ -60,7 +60,7 @@ che coinvolge suolo, acque ed aria, e sta portando lentamente alla rottura dei
 sottili equilibri che mantengono florida la natura, e che ci permettono di
 godere di quei frutti che ci rendono famosi nel mondo.
 
-![asdf](/images/grano.jpg "titolo imagine")
+![asdf](/images/posts/grano.jpg "titolo imagine")
 
 Verdesalis. Verde perché crediamo nel potere autorigenerante della natura,
 salis perché gli antichi latini dicevano "cum grano salis"
