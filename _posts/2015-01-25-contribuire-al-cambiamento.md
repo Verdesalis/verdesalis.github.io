@@ -12,29 +12,31 @@ author:
 ---
 
 Caro visitatore,
-per prima cosa: benvenuto.
 
-Questa è la sezione di blogging e news di [Verdesalis](http://verdesalis.it/ "Verdesalis"),
+per prima cosa, benvenuto.
+
+Questa è la sezione di blogging e news di
+[Verdesalis](http://verdesalis.it/ "Verdesalis"),
 il progetto di vita a cui stiamo lavorando. Progetto di vita significa voler
 dedicare se stessi, il proprio bagaglio di conoscenze e le capacità personali
 per uno scopo che coinvolgerà noi e la nostra comunità, il nostro amato
 territorio salentino. 
 
-Come te, che sei giunto su questo portale, ci siamo chiesti cosa stesse
-accadendo intorno a noi, perché le cose belle, gli odori e i sapori, le
+Come te, probabilmente, ci siamo chiesti cosa stesse
+accadendo intorno a noi, perché gli odori e i sapori, le
 bellezze del nostro territorio e i suoi particolari splendori, stessero
-scomparendo e subendo aggressioni più o meno evidenti. Abusi, devastazione.
+scomparendo e subendo aggressioni più o meno evidenti.
 
-Abbiamo assistito come te al perpetrarsi sotterraneo di crimini verso la Natura,
+Abbiamo assistito al perpetrarsi sotterraneo di crimini verso la Natura,
 verso la terra che ci sostenta da generazioni, noi italiani eredi degli antichi
 Messapi, della cultura latina e greca, della tradizione secolare che accompagna
 le nostre colture alla nostra cultura. I nostri occhi si sono posati più volte
 sullo stridere di paesaggi mozzafiato macchiati da una mano criminale e
 ignorante che ha minato alle basi la fonte del nostro benessere psicologico e
-fisico, che ha sporcato e offuscato la bontà dei primati della nostra terra.
+fisico.
 
 In uno strano gioco di destini, ci siamo ritrovati in cinque ragazzi, dalle
-varie età e competenze, a discutere su questi temi, mentre si cercava di
+varie età e competenze, a discutere su questi temi mentre si cercava di
 apprendere, presso corsi di imprenditoria privata, come attuare i nostri
 progetti, o perlomeno comprendere se essi potessero realizzarsi in questa
 nazione in crisi di identità.
@@ -42,29 +44,27 @@ nazione in crisi di identità.
 Nel parlare, nel conoscersi, sono emerse le particolari urgenze delle nostre
 vite, e ci siamo accorti della genuinità delle stesse, dell'occhio attento del
 nostro prossimo alle stesse cose che avevano preoccupato il nostro. Infine,
-siamo giunti a concordare di voler tentare di cambiare le cose, di dare questa
+siamo giunti alla convinzione di voler tentare di cambiare le cose, di dare questa
 prova di forza alla nostra comunità, metterci la faccia per non avere alcun
 rimpianto qualora le forze in gioco fossero infine troppo soverchianti.
 
-È nata quindi Verdesalis, una idea imprenditoriale che prende il meglio di tutte
+È nata quindi Verdesalis, un'idea che prende il meglio di tutte
 le nostre qualità e competenze per cercare di sanare il nostro ambiente,
-ripulirlo dal peccato di superficialità e ignoranza dei nostri padri e di
-coloro che ancora prima di loro non avevano idea del male che potevano fare a
-se stessi ed agli altri, permettendo che certi crimini venissero commessi.
+ripulirlo dal peccato di superficialità e ignoranza dei nostri padri.
 
 Ad oggi, molta parte del nostro territorio presenta deterioramenti più o meno
 gravi, direttamente collegati alle azioni condotte su di esso.
-Nonostante distanti molti kilometri dalle aree a maggiore impatto ambientale,
+Nonostante siano distanti molti chilometri dalle aree a maggiore impatto ambientale,
 intere aree del nostro territorio sperimentano gli effetti di un inquinamento
 che coinvolge suolo, acque ed aria, e sta portando lentamente alla rottura dei
 sottili equilibri che mantengono florida la natura, e che ci permettono di
 godere di quei frutti che ci rendono famosi nel mondo.
 
-Crediamo nella bontà dei frutti della nostra terra, ricordiamo i sapori e
-vogliamo che vengano ricordati da tutti, che diventino il bagaglio che passeremo
-alle generazioni che seguiranno la nostra. Verdesalis, verde perché crediamo nel potere
-autorigenerante della natura, salis perché gli antichi latini dicevano
-“cum grano salis” per indicare l'azione di un antidoto che aveva effetto solo se
+![asdf](/images/grano.jpg "titolo imagine")
+
+Verdesalis. Verde perché crediamo nel potere autorigenerante della natura,
+salis perché gli antichi latini dicevano "cum grano salis"
+per indicare l'azione di un antidoto che aveva effetto solo se
 preso con un grano di sale. Una piccola dose di buonsenso. Il “buonsenso”,
 questo sconosciuto a quanto pare, perché per i nostri occhi ingenui di ragazzi
 che non accettano i compromessi dei nostri predecessori, basta un po' di
