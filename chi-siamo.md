@@ -72,11 +72,10 @@ sviluppare le qualità capaci di essere apprezzate anche all’estero.
 
 ####<img style="border-radius:54px;width:64px;height:64px;" src="/images/{{ page.ivo }}"> Ivano Manca
 Salentino, ingegnere e musicista. Vissuto in Emilia-Romagna per studio ed in UK
-per lavoro. Tornato stabilmente in Puglia nel 2014, attualmente lavora nel
-settore IT per Blueprimates (una start-up salentina operante sia nel mercato
-estero che in quello italiano). Co-fondatore in progetti innovativi quali
-CicerOOs (semantic search engine vincitore Principi Attivi 2010), UniRadio
-Cesena (prima webradio universitaria Open-Source in Italia), si appassiona fin
+per lavoro. Tornato stabilmente in Puglia nel 2014, lavora nel settore IT per
+Blueprimates (start-up salentina operante sia nel mercato estero che in quello italiano).
+Cofondatore in progetti innovativi quali CicerOOs (semantic search engine vincitore Principi Attivi 2010),
+UniRadio Cesena (prima webradio universitaria Open-Source in Italia), si appassiona fin
 da subito al “progetto di vita” Verdesalis nel quale vede concretizzarsi la
 possibilità di contribuire attivamente ad uno sviluppo sostenibile ed innovativo
 in agricoltura e nella tutela del territorio.
