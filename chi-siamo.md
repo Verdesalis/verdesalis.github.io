@@ -36,9 +36,6 @@ Mission e obiettivi
 Lo staff Verdesalis
 ---
 
-Il nostro staff è formato da cinque figure eterogenee per formazione ed
-esperienze professionali.
-
 
 ####<img style="border-radius:54px;width:64px;height:64px;" src="/images/{{ page.ilijas }}"> Ilijas Costantini
 Nato a Pordenone e successivamente trasferitosi in provincia di Lecce nel 2004.
@@ -73,7 +70,8 @@ sviluppare le qualità capaci di essere apprezzate anche all’estero.
 ####<img style="border-radius:54px;width:64px;height:64px;" src="/images/{{ page.ivo }}"> Ivano Manca
 Salentino, ingegnere e musicista. Vissuto in Emilia-Romagna per studio ed in UK
 per lavoro. Tornato stabilmente in Puglia nel 2014, lavora nel settore IT per
-Blueprimates (start-up salentina operante sia nel mercato estero che in quello italiano).
+<a href="http://www.blueprimates.com/" title="Blueprimates Drupal Web Agency" target="_blank">Blueprimates</a>
+(start-up salentina operante sia nel mercato estero che in quello italiano).
 Cofondatore in progetti innovativi quali CicerOOs (semantic search engine vincitore Principi Attivi 2010),
 UniRadio Cesena (prima webradio universitaria Open-Source in Italia), si appassiona fin
 da subito al “progetto di vita” Verdesalis nel quale vede concretizzarsi la
