@@ -37,6 +37,7 @@
                 <img src="/images/{{ site.inc.logo }}" alt="Inc">
             </a>
             <a href="{{ site.inc.chisiamo_url }}" class="btn btn-outline">{{ site.inc.chisiamo_link }}</a>
+            <a href="{{ site.inc.partners_url }}" class="btn btn-outline">{{ site.inc.partners_link }}</a>
             <a href="{{ site.inc.contatti_url }}" class="btn btn-outline">{{ site.inc.contatti_link }}</a>
         </nav>
     </header>
@@ -51,6 +52,7 @@
         <nav>
             <a href="{{ site.inc.url }}">{{ site.inc.company }}</a> &middot;
             {% if site.inc.chisiamo_url %}<a href="{{ site.inc.chisiamo_url }}">{{ site.inc.chisiamo_link }}</a>&middot;{% endif %}
+            {% if site.inc.partners_url %}<a href="{{ site.inc.partners_url }}">{{ site.inc.partners_link }}</a>&middot;{% endif %}
             {% if site.inc.contatti_url %}<a href="{{ site.inc.contatti_url }}">{{ site.inc.contatti_link }}</a>{% endif %}
         </nav>
         

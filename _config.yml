@@ -16,6 +16,10 @@ inc:
   chisiamo_url: /chi-siamo/
   chisiamo_link: Chi siamo
 
+  # Partners
+  partners_url: /partners/
+  partners_link: Partners
+
   # Contatti
   contatti_url: /contatti/
   contatti_link: Contatti
