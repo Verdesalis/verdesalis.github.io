@@ -11,7 +11,7 @@ author:
   image: blogger/luigi.jpg
 ---
 
-Questa, si proprio questa, è la sezione di blogging e news di
+Questa, sì proprio questa, è la sezione di blogging e news di
 [Verdesalis](http://verdesalis.it/ "Verdesalis"),
 il progetto di vita a cui stiamo lavorando. Progetto di vita significa voler
 dedicare se stessi, il proprio bagaglio di conoscenze e le capacità personali
