@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="generator" content="Jekyll">
+    <title>Legumi in Festa 2019 &mdash; Verdesalis</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/images/logo.png"/>
+    <meta name="title" content="Legumi in Festa 2019">
+    <link rel="canonical" href="https://verdesalis.it/legumiinfesta/">
+    <meta property="og:title" content="Legumi in Festa 2019 "/>
+    <meta property="og:url" content="https://verdesalis.it/legumiinfesta/"/>
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Verdesalis">
+    <meta property="fb:admins" content="704678856" />
+    <meta property="og:locale:alternate" content="it_IT" />
+    
+    <meta property="og:image" content="https://verdesalis.it/images/posts/manifesto-lif-2019.jpg"/>
+    
+    
+    <meta property="og:description" content="Il programma completo della III edizione (Mercatino, Dialoghi rurali, Gastronomia e Spettacoli)"/>
+    <meta name="description" content="Il programma completo della III edizione (Mercatino, Dialoghi rurali, Gastronomia e Spettacoli)"/>
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59058605-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-59058605-1');
+    </script>
+
+    <!-- CSS & fonts -->
+	<link rel="stylesheet" href="/css/main.css">
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,400italic%7CSignika:700,300,400,600' rel='stylesheet' type='text/css'>
+
+	<!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+
+    <!-- Cookie popup -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+</head>
+
+
+<body>
+	<div id="wrap">
+	  	
+	  	<!-- Navigation -->
+	  	<nav id="nav" >
+    <div id="nav-list">
+        <a href="/">Home</a>
+        <!-- Nav pages -->
+        
+        
+        
+        
+        <a href="/progetti/"
+           title="Progetti">Progetti</a>
+        
+        
+        
+        
+        
+        
+        <a href="/legumiinfesta/"
+           title="Legumi in Festa 2024">Legumi in Festa 2024</a>
+        
+        
+        
+        
+        
+        
+        <a href="/chi-siamo/"
+           title="Chi siamo">Chi siamo</a>
+        
+        
+        
+        
+        
+        
+        <a href="/partners/"
+           title="Partners">Partners</a>
+        
+        
+        
+        
+        
+        
+        <a href="/modulistica/"
+           title="Modulistica">Modulistica</a>
+        
+        
+        
+        
+        
+        
+        <a href="/contatti/"
+           title="Contatti">Contatti</a>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <a href="/mappa"
+           title="Mappa Rete CDC">Mappa Rete CDC</a>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <a href="/legumiinfesta/"
+           title="Legumi in Festa">Legumi in Festa</a>
+        
+        
+        
+        
+        
+        
+        <a href="/legumiinfesta/"
+           title="Legumi in Festa 2019">Legumi in Festa 2019</a>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <!-- Nav links -->
+        
+    </div>
+    <!-- Nav footer -->
+    
+    <footer>
+    <a href="https://www.facebook.com/verdesalis" target="_blank">Seguici su Facebook!</a>
+</footer>
+    
+</nav>
+
+    
+    <!-- Icon menu -->
+	  <a id="nav-menu">
+	  	<div id="menu"></div>
+	  </a>
+
+      <!-- Header -->
+      
+        <header id="header">
+	<a href="/">
+		<div class="logo-home">
+            <img src="/images/logo.png" alt="Verdesalis Logo">
+        </div>
+	</a>
+</header>
+
+      
+
+    <!-- Main content -->
+	  <div id="container">
+		  
+		<main>
+
+			<article id="page">
+	<h1>Legumi in Festa 2019</h1>
+	<div class="content">
+
+		![Manifesto Legumi in Festa 2019](/images/posts/manifesto-lif-2019.jpg)
+
+# III edizione **<span style="color:green;">/</span>** 26-27 ottobre 2019 <br/>Piazza Salandra **<span style="color:green;">/</span>** Nardò
+
+### Sabato 26 ottobre
+
+**16.00** **<span style="color:green;">/</span>** **<span style="color:green;">APERTURA MERCATINO</span>**<br/>
+dialogo con i **produttori** **<span style="color:green;">/</span>** Saluti istituzionali **Comune di Nardò**
+
+**18.00** **<span style="color:green;">/</span>** **<span style="color:green;">DEGUSTAZIONE LEGUMI</span>**<br/>
+con il contributo di
+IISS Alberghiero "Moccia" Nardò **<span style="color:green;">/</span>**
+Cantina Supersanum **<span style="color:green;">/</span>**
+Gruit Birrificio Artigianale Biologico **<span style="color:green;">/</span>**
+Azienda Agricola Terre Paduli **<span style="color:green;">/</span>**
+Azienda Agricola Cosimo Chiriasi **<span style="color:green;">/</span>**
+Chiriasi Forneria del Salento **<span style="color:green;">/</span>**
+Olio Durante Terra Madre
+
+**<span style="color:green;">DIALOGHI RURALI &#9656; territorio, cibo, comunità</span>**<br/>
+modera **Virginia Meo** (associazione Oltre Mercato Salento) **<span style="color:green;">/</span>** intermezzi musicali di **Andrea Baccassino**
+
+**18.30** **<span style="color:green;">/</span>**
+**Cosimo Durante** (presidente GAL Terra d'Arneo, Georgofilo) - _Politiche di sviluppo rurale in Terra d’Arneo_ **<span style="color:green;">/</span>**
+**Valentina Avantaggiato** (vicesindaco Comune di Melpignano) - _Mensa scolastica a km0, a Melpignano è realtà_
+
+**20.00** **<span style="color:green;">/</span>**
+**Rosa Vaglio, Angelo Cleopazzo** (associazione Diritti a Sud) - _L'agroecologia come strumento di lotta politica, l'esperienza di Sfruttazero_ **<span style="color:green;">/</span>**
+**Vito Paradiso** (Università degli Studi di Bari) con **Gianmarco Scarafoni** (progetto "Utilità marginale") - _Tutti giù per terra? Agricoltura e inclusione sociale per entrare nell'età adulta_
+
+**21.30** **<span style="color:green;">/</span>**
+**Roberta Bruno** (rappresentante soc. coop. Karadrà) - _Dal recupero agronomico alla valorizzazione dei luoghi, nuove responsabilità per l'agricoltura_ **<span style="color:green;">/</span>**
+**Emilio Buonomo** (presidente Bio-Distretto Cilento) - _A tutela della biodiversità. Il "caso" Bio-Distretto del Cilento_ **<span style="color:green;">/</span>**
+**Antonio Pellegrino** (presidente coop Terra di Resilienza) - _Monte Frumentario del Cilento, ancora grano!_
+
+### Domenica 27 ottobre
+
+**9.45** **<span style="color:green;">/</span>** **<span style="color:green;">APERTURA MERCATINO</span>**<br/>
+dialogo con i **produttori**
+
+**10.00** **<span style="color:green;">/</span>** **<span style="color:green;">LABORATORI CON DEGUSTAZIONE</span>**<br/>
+_“Tra terra e mare, la Terra d’Arneo a tavola”_ a cura del GAL Terra d’Arneo **<span style="color:green;">presso</span>** La Vetrina del Gusto
+
+**12.00** **<span style="color:green;">/</span>** **<span style="color:green;">DEGUSTAZIONE LEGUMI</span>**<br/>
+con il contributo di
+IISS Alberghiero "Moccia" Nardò **<span style="color:green;">/</span>**
+Cantina Supersanum **<span style="color:green;">/</span>**
+Gruit Birrificio Artigianale Biologico **<span style="color:green;">/</span>**
+Azienda Agricola Terre Paduli **<span style="color:green;">/</span>**
+Azienda Agricola Cosimo Chiriasi **<span style="color:green;">/</span>**
+Chiriasi Forneria del Salento **<span style="color:green;">/</span>**
+Olio Durante Terra Madre
+
+**17.00** **<span style="color:green;">/</span>** **<span style="color:green;">DA NARDÒ PROSPETTIVE PER UN FUTURO VERDE</span>**<br/>
+**Antonio Orlando** (agrotecnico) - _Esperienze di orti didattici_ **<span style="color:green;">/</span>** **Bruno Vaglio** (agronomo) - _I legumi: una risposta concreta contro i cambiamenti climatici_
+
+**17.30** **<span style="color:green;">/</span>** **<span style="color:green;">DEGUSTAZIONE LEGUMI</span>**<br/>
+con il contributo di
+IISS Alberghiero "Moccia" Nardò **<span style="color:green;">/</span>**
+Cantina Supersanum **<span style="color:green;">/</span>**
+Gruit Birrificio Artigianale Biologico **<span style="color:green;">/</span>**
+Azienda Agricola Terre Paduli **<span style="color:green;">/</span>**
+Azienda Agricola Cosimo Chiriasi **<span style="color:green;">/</span>**
+Chiriasi Forneria del Salento **<span style="color:green;">/</span>**
+Olio Durante Terra Madre
+
+**<span style="color:green;">DIALOGHI RURALI &#9656; agricoltura naturale, biodiversità</span>**<br/>
+modera **Carlo De Michele** (medico, consigliere ISDE Medici per l'Ambiente) **<span style="color:green;">/</span>** intermezzi musicali di **Andrea Baccassino**
+
+**18.00** **<span style="color:green;">/</span>**
+**Angelo Giordano** (fondatore Ex Terra) - _Semi, ecotipi locali e varietà antiche_ **<span style="color:green;">/</span>**
+**Giovanni Guarini** (vicepresidente APIS Puglia) - _L'apicoltura in Puglia e nel Salento_
+
+**19.30** **<span style="color:green;">/</span>**
+**Giorgio Doveri** (dottore in Chimica e Tecnologie farmaceutiche) - _Condizione ecologica della Puglia, il disseccamento degli olivi e il "caso" Xylella_ **<span style="color:green;">/</span>**
+**Francesco Mastroleo** (olivicoltore) - _La gestione naturale di un uliveto_
+
+**Info**: verdesalis@gmail.com
+
+
+--- 
+<sup>sostengono **Legumi in Festa**:<br/>
+Comune di Nardò - Assessorato Attività Produttive **<span style="color:green;">/</span>**
+Regione Puglia - Presidenza del Consiglio Regionale **<span style="color:green;">/</span>**
+GAL Terra d'Arneo **<span style="color:green;">/</span>**
+Rete Salento Km0 **<span style="color:green;">/</span>**
+IISS "N. Moccia" **<span style="color:green;">/</span>**
+Anna Maria Giuri Tessuti & C. **<span style="color:green;">/</span>**
+Bar Piazza Salandra **<span style="color:green;">/</span>**
+Caffè Parisi Nardò **<span style="color:green;">/</span>**
+Hostaria Corte Santa Lucia **<span style="color:green;">/</span>**
+La Bottiglieria - Wine Bar **<span style="color:green;">/</span>**
+La Dispensa dei Raccomandati **<span style="color:green;">/</span>**
+La Vetrina del Gusto **<span style="color:green;">/</span>**
+Manieri Natural Street Food **<span style="color:green;">/</span>**
+Paglialunga Pizzeria & Co. **<span style="color:green;">/</span>**
+Salento Open Tour **<span style="color:green;">/</span>**
+Sis Agenzia Immobiliare **<span style="color:green;">/</span>**
+Turismo d'Autore - tour operator e agenzia viaggi **<span style="color:green;">/</span>**
+Vitale Restauri</sup>
+
+<sup>**<span style="color:green;">&#127807;</span>** evento fratello della **<span style="color:green;">Notte Verde</span>** di Castiglione d'Otranto</sup>
+
+
+> […] inde domum me<br/>
+  ad porris et ciceri refero laganique catinum.<br/>
+  <br/>
+  […] quindi me ne torno a casa,<br/>
+  al mio piatto di porri, di ceci e di lagane.<br/>
+  <br/> - **Quinto Orazio Flacco (65-8 a.c.)** [Satire, 1, 6, 114].
+
+		
+	</div>
+</article>
+
+	  </main>
+		
+		  <!-- Pagination links -->
+      
+
+	  </div>
+	    
+	    <!-- Footer -->
+	    <footer>
+<span>APS Verdesalis</span><br/><span> @2021 Copyright - Tutti i diritti sono riservati.</span>
+<div class="privacy-link"><a href="/privacy">Privacy policy</a></div>
+</footer>
+
+	    <!-- Script -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/slippry.min.js"></script>
+<script>jQuery(document).ready(function(){jQuery('#slippry-demo').slippry()})</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v3.1&appId=1887768751481942&autoLogAppEvents=1';
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+    window.cookieconsent.initialise({
+        "palette": {
+            "popup": {
+                "background": "#efefef",
+                "text": "#404040"
+            },
+            "button": {
+                "background": "#8ec760",
+                "text": "#ffffff"
+            }
+        },
+        "content": {
+            "message": "Questo sito utilizza i cookies. Acconsenti al loro utilizzo oppure visualizza ulteriori informazioni cliccando su ",
+            "dismiss": "Ok",
+            "link": "Info cookie",
+            "href": "/privacy#cookies"
+        }
+    });
+</script>
+
+
+	</div>
+</body>
+</html>
