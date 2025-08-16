@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /calendario-rete-salento-km0
